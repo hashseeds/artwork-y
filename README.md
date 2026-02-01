@@ -1,0 +1,1 @@
+HashSeeds is a generative art NFT collection that transforms the 2048 words of the official BIP-39 English seed phrase wordlist into 2048 unique 12×12 pixel artworks — each one derived deterministically from the SHA-256 hash of its corresponding word.
